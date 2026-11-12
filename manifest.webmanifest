@@ -1,0 +1,24 @@
+{
+  "id": "/kenya/",
+  "name": "ASPK-NSOKO — Marché de Kenya",
+  "short_name": "ASPK-NSOKO",
+  "description": "Marché numérique des boutiques de Kenya à Lubumbashi.",
+  "start_url": "./",
+  "scope": "./",
+  "display": "standalone",
+  "background_color": "#f3f5f8",
+  "theme_color": "#12345a",
+  "orientation": "portrait",
+  "icons": [
+    {
+      "src": "./icon-192.png",
+      "sizes": "192x192",
+      "type": "image/png"
+    },
+    {
+      "src": "./icon-512.png",
+      "sizes": "512x512",
+      "type": "image/png"
+    }
+  ]
+}
